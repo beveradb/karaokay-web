@@ -1,3 +1,3 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseURL = "https://karaokay.projectbread.uk"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Karaokay"
