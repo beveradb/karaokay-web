@@ -1,4 +1,6 @@
 baseURL = "https://karaokay.projectbread.uk"
-languageCode = "en-us"
+languageCode = "en-gb"
 title = "Karaokay"
 theme = "ananke"
+[params]
+  Subtitle = "Open source karaoke songbook, song recommendations and playlist tracker app"
